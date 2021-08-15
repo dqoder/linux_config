@@ -30,6 +30,9 @@ sudo pacman -Syu yay
   - [vim-rainbow](https://github.com/frazrepo/vim-rainbow)
   - [vim-auto-comment](https://github.com/KarimElghamry/vim-auto-comment)
   - [vim-kitty](https://github.com/fladson/vim-kitty) ( for vim syntax highlighting of kitty config file) 
+  - vim-vineger (to support netrw -- vim explorer (inbuilt))
+  - YouCompleteMe (autocomplete plugin)
+    - [potential issue](https://stackoverflow.com/questions/47667119/ycm-error-the-ycmd-server-shut-down-restart-wit-the-instructions-in-the-docu)
 ## cmatrix
 
 ## ternimator
