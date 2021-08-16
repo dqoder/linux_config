@@ -120,9 +120,9 @@ export NVM_DIR="$HOME/.nvm"
 delELF(){
     for fname in `ls`
     do
-        
+
         ftype=$(file $fname|cut -d":" -f2|cut -d" " -f2)
-        
+
         if [ $ftype = "ELF" ]
         then
             echo "deleting $fname"
@@ -134,3 +134,6 @@ delELF(){
 
 # alias
 alias vi=vim
+
+# setting EDITOR = vim
+export EDITOR=/usr/bin/vim

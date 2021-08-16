@@ -29,6 +29,7 @@ sudo pacman -Syu yay
   - [auto-pairs](https://github.com/jiangmiao/auto-pairs)
   - [vim-rainbow](https://github.com/frazrepo/vim-rainbow)
   - [vim-auto-comment](https://github.com/KarimElghamry/vim-auto-comment)
+	- __EDITED__ : plugin has been edited - [git rep](https://github.com/dqoder/editedVimPlugins)
   - [vim-kitty](https://github.com/fladson/vim-kitty) ( for vim syntax highlighting of kitty config file) 
   - vim-vineger (to support netrw -- vim explorer (inbuilt))
   - YouCompleteMe (autocomplete plugin)
